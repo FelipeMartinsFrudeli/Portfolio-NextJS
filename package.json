@@ -1,0 +1,27 @@
+{
+  "name": "Portfolio-NextJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeMartinsFrudeli/Portfolio-NextJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeMartinsFrudeli/Portfolio-NextJS/issues"
+  },
+  "homepage": "https://github.com/FelipeMartinsFrudeli/Portfolio-NextJS#readme",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
